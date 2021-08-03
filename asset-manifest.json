@@ -1,25 +1,25 @@
 {
   "files": {
     "main.css": "/native-template-selector/static/css/main.742a9151.chunk.css",
-    "main.js": "/native-template-selector/static/js/main.46a1e0c9.chunk.js",
-    "main.js.map": "/native-template-selector/static/js/main.46a1e0c9.chunk.js.map",
-    "runtime-main.js": "/native-template-selector/static/js/runtime-main.bc665614.js",
-    "runtime-main.js.map": "/native-template-selector/static/js/runtime-main.bc665614.js.map",
+    "main.js": "/native-template-selector/static/js/main.e53b2ae9.chunk.js",
+    "main.js.map": "/native-template-selector/static/js/main.e53b2ae9.chunk.js.map",
+    "runtime-main.js": "/native-template-selector/static/js/runtime-main.13c972c7.js",
+    "runtime-main.js.map": "/native-template-selector/static/js/runtime-main.13c972c7.js.map",
     "static/css/2.49c1fcb1.chunk.css": "/native-template-selector/static/css/2.49c1fcb1.chunk.css",
-    "static/js/2.f3f88340.chunk.js": "/native-template-selector/static/js/2.f3f88340.chunk.js",
-    "static/js/2.f3f88340.chunk.js.map": "/native-template-selector/static/js/2.f3f88340.chunk.js.map",
-    "static/js/3.df7a3e3a.chunk.js": "/native-template-selector/static/js/3.df7a3e3a.chunk.js",
-    "static/js/3.df7a3e3a.chunk.js.map": "/native-template-selector/static/js/3.df7a3e3a.chunk.js.map",
+    "static/js/2.709ef83c.chunk.js": "/native-template-selector/static/js/2.709ef83c.chunk.js",
+    "static/js/2.709ef83c.chunk.js.map": "/native-template-selector/static/js/2.709ef83c.chunk.js.map",
+    "static/js/3.da38e67b.chunk.js": "/native-template-selector/static/js/3.da38e67b.chunk.js",
+    "static/js/3.da38e67b.chunk.js.map": "/native-template-selector/static/js/3.da38e67b.chunk.js.map",
     "index.html": "/native-template-selector/index.html",
     "static/css/2.49c1fcb1.chunk.css.map": "/native-template-selector/static/css/2.49c1fcb1.chunk.css.map",
     "static/css/main.742a9151.chunk.css.map": "/native-template-selector/static/css/main.742a9151.chunk.css.map",
-    "static/js/2.f3f88340.chunk.js.LICENSE.txt": "/native-template-selector/static/js/2.f3f88340.chunk.js.LICENSE.txt"
+    "static/js/2.709ef83c.chunk.js.LICENSE.txt": "/native-template-selector/static/js/2.709ef83c.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.bc665614.js",
+    "static/js/runtime-main.13c972c7.js",
     "static/css/2.49c1fcb1.chunk.css",
-    "static/js/2.f3f88340.chunk.js",
+    "static/js/2.709ef83c.chunk.js",
     "static/css/main.742a9151.chunk.css",
-    "static/js/main.46a1e0c9.chunk.js"
+    "static/js/main.e53b2ae9.chunk.js"
   ]
 }
